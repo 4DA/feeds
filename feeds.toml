@@ -1,4 +1,4 @@
-[funfacts]
+[best_hn_comments]
 title = "HN Best Comments"
 url = "https://news.ycombinator.com/bestcomments"
 entrySelector = "#mp-dyk > ul li"
